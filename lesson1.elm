@@ -27,7 +27,7 @@ type alias Model =
     }
 
 type Displayprice
-    = PriceOk Int -- Si le prix est OK
+    = PriceOk Int -- Si le prix est OK!!!!!!!!!!!!
     | Error Int String -- Si on doit remonter une erreur
 
 initialModel : (Model, Cmd Msg)
