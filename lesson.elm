@@ -77,6 +77,6 @@ totalprice quantity price =
             --, "Résultat isatennager age : "
             --    ++ (toString <| isateenager 11)
             --, "Résultat capitalize : "
-            --    ++ capitalize "arnaud"
+            --    ++ capitalize "arnaud!!!!!!!!!!!!!!!!"
             --["Résultat totalprice 1  1 : "
             --    ++ (toString <| totalprice 1 1)            ]
