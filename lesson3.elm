@@ -116,8 +116,8 @@ viewModel model =
 
       ,br [ ] [ ]
        ,input
-        [type_ "Promotionnem"
-       ,placeholder "Veuillez saisir le code promotionnel!!!!!!!!!!!!!!!!!!!"
+        [type_ "Promo"
+       ,placeholder "Veuillez saisir le code promo"
        ,onInput Sendpromo]
        [ ]
      ]
