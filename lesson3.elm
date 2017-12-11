@@ -31,7 +31,7 @@ totalPackPrice quantity price =
    in
      price * paidQuantity
  else
-     0
+     4
 
 pricereduced : Int -> String -> Float
 pricereduced totalprice promocode =
